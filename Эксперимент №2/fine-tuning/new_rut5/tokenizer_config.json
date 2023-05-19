@@ -1,0 +1,12 @@
+{
+  "additional_special_tokens": null,
+  "eos_token": "</s>",
+  "extra_ids": 0,
+  "model_max_length": 1000000000000000019884624838656,
+  "pad_token": "<pad>",
+  "sp_model_kwargs": {},
+  "special_tokens_map_file": "rut5-base/special_tokens_map.json",
+  "tokenizer_class": "T5Tokenizer",
+  "tokenizer_file": null,
+  "unk_token": "<unk>"
+}
